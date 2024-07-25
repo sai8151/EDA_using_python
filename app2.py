@@ -36,5 +36,3 @@ def get_pyg_renderer() -> "StreamlitRenderer":
 renderer = get_pyg_renderer()
  
 renderer.explorer()
-
-

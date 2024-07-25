@@ -82,3 +82,5 @@ with st.spinner(text="processing"):
         st.write(f"**2D Density Plot Description for {country}:**")
         st.write(f"The 2D density plot displays the relationship between population and AQI values, with color gradients showing the density of data points for {country}.")
 st.success('Done!') 
+#st.balloons()
+#st.snow()
